@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image_encr_decr_load_demo</string>
+    <string name="encr">加密</string>
+    <string name="load">载入图片</string>
+</resources>
